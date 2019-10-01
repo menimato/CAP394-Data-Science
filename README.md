@@ -1,3 +1,3 @@
 # CAP394-Data-Science
 
-Python notebook describing what is planned for the final project of CAP 394 - Data Science.
+This project is better described by the "CAP 394 - Data Science.ipynb" file. It consists of a workflow for the DTW classification of a goup of time series.
